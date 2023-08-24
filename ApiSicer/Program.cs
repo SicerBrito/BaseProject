@@ -1,3 +1,4 @@
+using System.Reflection;
 using ApiSicer.Extensions;
 using Microsoft.EntityFrameworkCore;
 using Persistencia.Data;
@@ -9,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.ConfigureCors();
 builder.Services.AddAplicacionServices();
+builder.Services.AddAutoMapper(Assembly.GetEntryAssembly());
 
 builder.Services.AddDbContext<SicerContext>(options =>
 {

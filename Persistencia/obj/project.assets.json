@@ -5216,19 +5216,19 @@
     ]
   },
   "packageFolders": {
-    "/home/apolM01-053/.nuget/packages/": {}
+    "/home/skylab-103/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/apolM01-053/Documents/Sicer/NetCore/lola/Persistencia/Persistencia.csproj",
+      "projectUniqueName": "/home/skylab-103/Documents/lola/Persistencia/Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "/home/apolM01-053/Documents/Sicer/NetCore/lola/Persistencia/Persistencia.csproj",
-      "packagesPath": "/home/apolM01-053/.nuget/packages/",
-      "outputPath": "/home/apolM01-053/Documents/Sicer/NetCore/lola/Persistencia/obj/",
+      "projectPath": "/home/skylab-103/Documents/lola/Persistencia/Persistencia.csproj",
+      "packagesPath": "/home/skylab-103/.nuget/packages/",
+      "outputPath": "/home/skylab-103/Documents/lola/Persistencia/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/apolM01-053/.nuget/NuGet/NuGet.Config"
+        "/home/skylab-103/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5240,8 +5240,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/apolM01-053/Documents/Sicer/NetCore/lola/Dominio/Dominio.csproj": {
-              "projectPath": "/home/apolM01-053/Documents/Sicer/NetCore/lola/Dominio/Dominio.csproj"
+            "/home/skylab-103/Documents/lola/Dominio/Dominio.csproj": {
+              "projectPath": "/home/skylab-103/Documents/lola/Dominio/Dominio.csproj"
             }
           }
         }

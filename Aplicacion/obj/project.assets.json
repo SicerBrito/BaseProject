@@ -5235,19 +5235,19 @@
     ]
   },
   "packageFolders": {
-    "/home/apolM01-053/.nuget/packages/": {}
+    "/home/skylab-103/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/apolM01-053/Documents/Sicer/NetCore/lola/Aplicacion/Aplicacion.csproj",
+      "projectUniqueName": "/home/skylab-103/Documents/lola/Aplicacion/Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "/home/apolM01-053/Documents/Sicer/NetCore/lola/Aplicacion/Aplicacion.csproj",
-      "packagesPath": "/home/apolM01-053/.nuget/packages/",
-      "outputPath": "/home/apolM01-053/Documents/Sicer/NetCore/lola/Aplicacion/obj/",
+      "projectPath": "/home/skylab-103/Documents/lola/Aplicacion/Aplicacion.csproj",
+      "packagesPath": "/home/skylab-103/.nuget/packages/",
+      "outputPath": "/home/skylab-103/Documents/lola/Aplicacion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/apolM01-053/.nuget/NuGet/NuGet.Config"
+        "/home/skylab-103/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5259,11 +5259,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/apolM01-053/Documents/Sicer/NetCore/lola/Dominio/Dominio.csproj": {
-              "projectPath": "/home/apolM01-053/Documents/Sicer/NetCore/lola/Dominio/Dominio.csproj"
+            "/home/skylab-103/Documents/lola/Dominio/Dominio.csproj": {
+              "projectPath": "/home/skylab-103/Documents/lola/Dominio/Dominio.csproj"
             },
-            "/home/apolM01-053/Documents/Sicer/NetCore/lola/Persistencia/Persistencia.csproj": {
-              "projectPath": "/home/apolM01-053/Documents/Sicer/NetCore/lola/Persistencia/Persistencia.csproj"
+            "/home/skylab-103/Documents/lola/Persistencia/Persistencia.csproj": {
+              "projectPath": "/home/skylab-103/Documents/lola/Persistencia/Persistencia.csproj"
             }
           }
         }

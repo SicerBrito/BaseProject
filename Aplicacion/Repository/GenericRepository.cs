@@ -22,7 +22,7 @@ public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
 
     public virtual void AddRange(IEnumerable<T> entities)
     {
-         _context.Set<T>().AddRange(entities);
+        _context.Set<T>().AddRange(entities);
     }
 
     public virtual IEnumerable<T> Find(Expression<Func<T, bool>> expression)

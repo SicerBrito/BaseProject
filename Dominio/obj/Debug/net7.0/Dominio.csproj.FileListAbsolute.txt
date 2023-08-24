@@ -22,3 +22,15 @@
 /home/apolM01-053/Documents/Sicer/NetCore/lola/Dominio/obj/Debug/net7.0/refint/Dominio.dll
 /home/apolM01-053/Documents/Sicer/NetCore/lola/Dominio/obj/Debug/net7.0/Dominio.pdb
 /home/apolM01-053/Documents/Sicer/NetCore/lola/Dominio/obj/Debug/net7.0/ref/Dominio.dll
+/home/skylab-103/Documents/lola/Dominio/bin/Debug/net7.0/Dominio.deps.json
+/home/skylab-103/Documents/lola/Dominio/bin/Debug/net7.0/Dominio.dll
+/home/skylab-103/Documents/lola/Dominio/bin/Debug/net7.0/Dominio.pdb
+/home/skylab-103/Documents/lola/Dominio/obj/Debug/net7.0/Dominio.csproj.AssemblyReference.cache
+/home/skylab-103/Documents/lola/Dominio/obj/Debug/net7.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-103/Documents/lola/Dominio/obj/Debug/net7.0/Dominio.AssemblyInfoInputs.cache
+/home/skylab-103/Documents/lola/Dominio/obj/Debug/net7.0/Dominio.AssemblyInfo.cs
+/home/skylab-103/Documents/lola/Dominio/obj/Debug/net7.0/Dominio.csproj.CoreCompileInputs.cache
+/home/skylab-103/Documents/lola/Dominio/obj/Debug/net7.0/Dominio.dll
+/home/skylab-103/Documents/lola/Dominio/obj/Debug/net7.0/refint/Dominio.dll
+/home/skylab-103/Documents/lola/Dominio/obj/Debug/net7.0/Dominio.pdb
+/home/skylab-103/Documents/lola/Dominio/obj/Debug/net7.0/ref/Dominio.dll

@@ -1,12 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Dominio.Entities;
 
-namespace ApiSicer.Dtos
-{
+namespace ApiSicer.Dtos;
     public class ProfesorDto
     {
         
     }
-}
