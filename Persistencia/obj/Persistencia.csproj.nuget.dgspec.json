@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/skylab-103/Documents/lola/Persistencia/Persistencia.csproj": {}
+    "C:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "/home/skylab-103/Documents/lola/Dominio/Dominio.csproj": {
+    "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-103/Documents/lola/Dominio/Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/home/skylab-103/Documents/lola/Dominio/Dominio.csproj",
-        "packagesPath": "/home/skylab-103/.nuget/packages/",
-        "outputPath": "/home/skylab-103/Documents/lola/Dominio/obj/",
+        "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\APM01-53\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-103/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\APM01-53\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -67,21 +67,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/skylab-103/Documents/lola/Persistencia/Persistencia.csproj": {
+    "C:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-103/Documents/lola/Persistencia/Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "/home/skylab-103/Documents/lola/Persistencia/Persistencia.csproj",
-        "packagesPath": "/home/skylab-103/.nuget/packages/",
-        "outputPath": "/home/skylab-103/Documents/lola/Persistencia/obj/",
+        "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\APM01-53\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-103/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\APM01-53\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-103/Documents/lola/Dominio/Dominio.csproj": {
-                "projectPath": "/home/skylab-103/Documents/lola/Dominio/Dominio.csproj"
+              "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
