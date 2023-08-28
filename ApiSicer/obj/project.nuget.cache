@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hz2mTtUB1FMjqCHQpPWb3hpBluSKA+k1KUz9uXqYcbtubfhf5q3uC8BFGfJ9Rb8/L4cynZ/mMyWN4e1LjtZcUA==",
+  "dgSpecHash": "b3cN2B2R6LGINGaekrNcK5LD8BoFglMTScHuByl7GohV+98JEnMGURGEDEi3ENh4/yIrCE1oOo2+CT2YeJr0ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj",
+  "projectFilePath": "c:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APM01-53\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\APM01-53\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

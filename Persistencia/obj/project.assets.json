@@ -5240,8 +5240,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj"
+            "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
+              "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj"
             }
           }
         }

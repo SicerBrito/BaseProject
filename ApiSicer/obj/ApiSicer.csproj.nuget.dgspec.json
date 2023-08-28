@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj": {}
+    "c:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj": {
+    "c:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj",
         "projectName": "ApiSicer",
-        "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj",
+        "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj",
         "packagesPath": "C:\\Users\\APM01-53\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\obj\\",
+        "outputPath": "c:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM01-53\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj"
+              "c:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj": {
+    "c:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\APM01-53\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\obj\\",
+        "outputPath": "c:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM01-53\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -110,11 +110,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj"
+              "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj"
+              "c:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
+    "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\APM01-53\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\obj\\",
+        "outputPath": "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM01-53\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj": {
+    "c:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\APM01-53\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\obj\\",
+        "outputPath": "c:\\Users\\APM01-53\\Documents\\lola\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM01-53\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -237,8 +237,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj"
+              "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj"
               }
             }
           }

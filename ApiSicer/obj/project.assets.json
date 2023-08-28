@@ -5946,11 +5946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj",
+      "projectUniqueName": "c:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj",
       "projectName": "ApiSicer",
-      "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj",
+      "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\ApiSicer.csproj",
       "packagesPath": "C:\\Users\\APM01-53\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\obj\\",
+      "outputPath": "c:\\Users\\APM01-53\\Documents\\lola\\ApiSicer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\APM01-53\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5965,8 +5965,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj"
+            "c:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {}
+    "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
+    "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\APM01-53\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM01-53\\Documents\\lola\\Dominio\\obj\\",
+        "outputPath": "c:\\Users\\APM01-53\\Documents\\lola\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM01-53\\AppData\\Roaming\\NuGet\\NuGet.Config"
