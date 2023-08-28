@@ -11,3 +11,7 @@
 ### 10. Profile  
 ### 11. Controllers  
 ### 12. Helpers  
+
+Este comando restaura la intalacion de las herramientas
+
+    dotnet restore 
