@@ -42,6 +42,10 @@
               "target": "Package",
               "version": "[11.3.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "itext7.pdfhtml": {
               "target": "Package",
               "version": "[5.0.1, )"
