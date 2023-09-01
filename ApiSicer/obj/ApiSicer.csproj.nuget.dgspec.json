@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/skylab-103/Documents/BaseProject/ApiSicer/ApiSicer.csproj": {}
+    "/home/skylab-102/Documents/BaseProject/ApiSicer/ApiSicer.csproj": {}
   },
   "projects": {
-    "/home/skylab-103/Documents/BaseProject/ApiSicer/ApiSicer.csproj": {
+    "/home/skylab-102/Documents/BaseProject/ApiSicer/ApiSicer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-103/Documents/BaseProject/ApiSicer/ApiSicer.csproj",
+        "projectUniqueName": "/home/skylab-102/Documents/BaseProject/ApiSicer/ApiSicer.csproj",
         "projectName": "ApiSicer",
-        "projectPath": "/home/skylab-103/Documents/BaseProject/ApiSicer/ApiSicer.csproj",
-        "packagesPath": "/home/skylab-103/.nuget/packages/",
-        "outputPath": "/home/skylab-103/Documents/BaseProject/ApiSicer/obj/",
+        "projectPath": "/home/skylab-102/Documents/BaseProject/ApiSicer/ApiSicer.csproj",
+        "packagesPath": "/home/skylab-102/.nuget/packages/",
+        "outputPath": "/home/skylab-102/Documents/BaseProject/ApiSicer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-103/.nuget/NuGet/NuGet.Config"
+          "/home/skylab-102/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-103/Documents/BaseProject/Aplicacion/Aplicacion.csproj": {
-                "projectPath": "/home/skylab-103/Documents/BaseProject/Aplicacion/Aplicacion.csproj"
+              "/home/skylab-102/Documents/BaseProject/Aplicacion/Aplicacion.csproj": {
+                "projectPath": "/home/skylab-102/Documents/BaseProject/Aplicacion/Aplicacion.csproj"
               }
             }
           }
@@ -88,17 +88,17 @@
         }
       }
     },
-    "/home/skylab-103/Documents/BaseProject/Aplicacion/Aplicacion.csproj": {
+    "/home/skylab-102/Documents/BaseProject/Aplicacion/Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-103/Documents/BaseProject/Aplicacion/Aplicacion.csproj",
+        "projectUniqueName": "/home/skylab-102/Documents/BaseProject/Aplicacion/Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "/home/skylab-103/Documents/BaseProject/Aplicacion/Aplicacion.csproj",
-        "packagesPath": "/home/skylab-103/.nuget/packages/",
-        "outputPath": "/home/skylab-103/Documents/BaseProject/Aplicacion/obj/",
+        "projectPath": "/home/skylab-102/Documents/BaseProject/Aplicacion/Aplicacion.csproj",
+        "packagesPath": "/home/skylab-102/.nuget/packages/",
+        "outputPath": "/home/skylab-102/Documents/BaseProject/Aplicacion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-103/.nuget/NuGet/NuGet.Config"
+          "/home/skylab-102/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -110,11 +110,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-103/Documents/BaseProject/Dominio/Dominio.csproj": {
-                "projectPath": "/home/skylab-103/Documents/BaseProject/Dominio/Dominio.csproj"
+              "/home/skylab-102/Documents/BaseProject/Dominio/Dominio.csproj": {
+                "projectPath": "/home/skylab-102/Documents/BaseProject/Dominio/Dominio.csproj"
               },
-              "/home/skylab-103/Documents/BaseProject/Persistencia/Persistencia.csproj": {
-                "projectPath": "/home/skylab-103/Documents/BaseProject/Persistencia/Persistencia.csproj"
+              "/home/skylab-102/Documents/BaseProject/Persistencia/Persistencia.csproj": {
+                "projectPath": "/home/skylab-102/Documents/BaseProject/Persistencia/Persistencia.csproj"
               }
             }
           }
@@ -148,17 +148,17 @@
         }
       }
     },
-    "/home/skylab-103/Documents/BaseProject/Dominio/Dominio.csproj": {
+    "/home/skylab-102/Documents/BaseProject/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-103/Documents/BaseProject/Dominio/Dominio.csproj",
+        "projectUniqueName": "/home/skylab-102/Documents/BaseProject/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/home/skylab-103/Documents/BaseProject/Dominio/Dominio.csproj",
-        "packagesPath": "/home/skylab-103/.nuget/packages/",
-        "outputPath": "/home/skylab-103/Documents/BaseProject/Dominio/obj/",
+        "projectPath": "/home/skylab-102/Documents/BaseProject/Dominio/Dominio.csproj",
+        "packagesPath": "/home/skylab-102/.nuget/packages/",
+        "outputPath": "/home/skylab-102/Documents/BaseProject/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-103/.nuget/NuGet/NuGet.Config"
+          "/home/skylab-102/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -215,17 +215,17 @@
         }
       }
     },
-    "/home/skylab-103/Documents/BaseProject/Persistencia/Persistencia.csproj": {
+    "/home/skylab-102/Documents/BaseProject/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-103/Documents/BaseProject/Persistencia/Persistencia.csproj",
+        "projectUniqueName": "/home/skylab-102/Documents/BaseProject/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "/home/skylab-103/Documents/BaseProject/Persistencia/Persistencia.csproj",
-        "packagesPath": "/home/skylab-103/.nuget/packages/",
-        "outputPath": "/home/skylab-103/Documents/BaseProject/Persistencia/obj/",
+        "projectPath": "/home/skylab-102/Documents/BaseProject/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/skylab-102/.nuget/packages/",
+        "outputPath": "/home/skylab-102/Documents/BaseProject/Persistencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-103/.nuget/NuGet/NuGet.Config"
+          "/home/skylab-102/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -237,8 +237,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-103/Documents/BaseProject/Dominio/Dominio.csproj": {
-                "projectPath": "/home/skylab-103/Documents/BaseProject/Dominio/Dominio.csproj"
+              "/home/skylab-102/Documents/BaseProject/Dominio/Dominio.csproj": {
+                "projectPath": "/home/skylab-102/Documents/BaseProject/Dominio/Dominio.csproj"
               }
             }
           }
